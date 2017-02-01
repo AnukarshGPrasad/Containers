@@ -1,0 +1,198 @@
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\ApplicationInsights.config
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\csc.exe
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\System.Collections.Immutable.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\vbc.exe
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\VBCSCompiler.exe
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\VBCSCompiler.exe.config
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\EmployeeDetailsCRUDApplication.dll.config
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\EmployeeDetailsCRUDApplication.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\EmployeeDetailsCRUDApplication.pdb
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Antlr3.Runtime.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\EntityFramework.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\EntityFramework.SqlServer.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.Web.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.WindowsServer.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.ApplicationInsights.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Google.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Web.Infrastructure.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Bson.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Driver.Core.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Driver.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Driver.Legacy.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Newtonsoft.Json.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Owin.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Net.Http.Formatting.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Helpers.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Http.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Http.Owin.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Http.WebHost.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Mvc.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Optimization.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Razor.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.WebPages.Deployment.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.WebPages.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.WebPages.Razor.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\WebGrease.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.Web.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.WindowsServer.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.ApplicationInsights.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Bson.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Driver.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Driver.Core.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Driver.Legacy.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Newtonsoft.Json.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Net.Http.Formatting.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Helpers.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Http.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Http.WebHost.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Mvc.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Optimization.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Razor.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.WebPages.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.WebPages.Deployment.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.WebPages.Razor.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Antlr3.Runtime.pdb
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\EntityFramework.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\EntityFramework.SqlServer.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Google.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Http.Owin.xml
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\obj\Debug\EmployeeDetailsCRUDApplication.csprojResolveAssemblyReference.cache
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\obj\Debug\EmployeeDetailsCRUDApplication.dll
+c:\users\prasaanu\documents\visual studio 2015\Projects\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\obj\Debug\EmployeeDetailsCRUDApplication.pdb
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\ApplicationInsights.config
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\csc.exe
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\vbc.exe
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\VBCSCompiler.exe
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\EmployeeDetailsCRUDApplication.dll.config
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\EmployeeDetailsCRUDApplication.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\EmployeeDetailsCRUDApplication.pdb
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Antlr3.Runtime.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\EntityFramework.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.Web.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.ApplicationInsights.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Bson.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Driver.Core.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Driver.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Driver.Legacy.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Newtonsoft.Json.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Owin.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Net.Http.Formatting.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Helpers.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Http.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Http.Owin.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Http.WebHost.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Mvc.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Optimization.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Razor.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.WebPages.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\WebGrease.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.Web.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.ApplicationInsights.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Bson.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Driver.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Driver.Core.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\MongoDB.Driver.Legacy.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Newtonsoft.Json.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Net.Http.Formatting.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Helpers.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Http.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Http.WebHost.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Mvc.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Optimization.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Razor.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.WebPages.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Antlr3.Runtime.pdb
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\EntityFramework.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\bin\System.Web.Http.Owin.xml
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\obj\Debug\EmployeeDetailsCRUDApplication.csprojResolveAssemblyReference.cache
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\obj\Debug\EmployeeDetailsCRUDApplication.dll
+C:\Users\prasaanu\Desktop\TrainingGit\EmployeeDetailsCRUDApplication\EmployeeDetailsCRUDApplication\obj\Debug\EmployeeDetailsCRUDApplication.pdb
